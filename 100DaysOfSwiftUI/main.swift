@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
-
+runday1()
+runday2()
+runCheckpoint1()

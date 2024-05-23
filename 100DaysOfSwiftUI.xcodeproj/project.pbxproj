@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		BA9427522BFECF890020E1FB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9427512BFECF890020E1FB /* main.swift */; };
+		BA9427592BFECFA30020E1FB /* day1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9427582BFECFA30020E1FB /* day1.swift */; };
+		BA94275B2BFED3AC0020E1FB /* day2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA94275A2BFED3AC0020E1FB /* day2.swift */; };
+		BA94275F2BFEDC650020E1FB /* Checkpoint1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA94275E2BFEDC650020E1FB /* Checkpoint1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		BA94274E2BFECF890020E1FB /* 100DaysOfSwiftUI */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 100DaysOfSwiftUI; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA9427512BFECF890020E1FB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		BA9427582BFECFA30020E1FB /* day1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day1.swift; sourceTree = "<group>"; };
+		BA94275A2BFED3AC0020E1FB /* day2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day2.swift; sourceTree = "<group>"; };
+		BA94275E2BFEDC650020E1FB /* Checkpoint1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkpoint1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				BA9427512BFECF890020E1FB /* main.swift */,
+				BA9427582BFECFA30020E1FB /* day1.swift */,
+				BA94275A2BFED3AC0020E1FB /* day2.swift */,
+				BA94275E2BFEDC650020E1FB /* Checkpoint1.swift */,
 			);
 			path = 100DaysOfSwiftUI;
 			sourceTree = "<group>";
@@ -120,6 +129,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA9427592BFECFA30020E1FB /* day1.swift in Sources */,
+				BA94275F2BFEDC650020E1FB /* Checkpoint1.swift in Sources */,
+				BA94275B2BFED3AC0020E1FB /* day2.swift in Sources */,
 				BA9427522BFECF890020E1FB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
