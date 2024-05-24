@@ -13,6 +13,8 @@
 		BA9427592BFECFA30020E1FB /* day1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9427582BFECFA30020E1FB /* day1.swift */; };
 		BA94275B2BFED3AC0020E1FB /* day2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA94275A2BFED3AC0020E1FB /* day2.swift */; };
 		BA94275F2BFEDC650020E1FB /* Checkpoint1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA94275E2BFEDC650020E1FB /* Checkpoint1.swift */; };
+		BACEA1A32C0115590022F333 /* day4.swift in Sources */ = {isa = PBXBuildFile; fileRef = BACEA1A22C0115590022F333 /* day4.swift */; };
+		BACEA1A52C011C050022F333 /* Checkpoint2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BACEA1A42C011C050022F333 /* Checkpoint2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +37,8 @@
 		BA9427582BFECFA30020E1FB /* day1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day1.swift; sourceTree = "<group>"; };
 		BA94275A2BFED3AC0020E1FB /* day2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day2.swift; sourceTree = "<group>"; };
 		BA94275E2BFEDC650020E1FB /* Checkpoint1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkpoint1.swift; sourceTree = "<group>"; };
+		BACEA1A22C0115590022F333 /* day4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day4.swift; sourceTree = "<group>"; };
+		BACEA1A42C011C050022F333 /* Checkpoint2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkpoint2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,7 @@
 				BA9427582BFECFA30020E1FB /* day1.swift */,
 				BA94275A2BFED3AC0020E1FB /* day2.swift */,
 				BA0827772BFF8C0500C064A7 /* day3.swift */,
+				BACEA1A22C0115590022F333 /* day4.swift */,
 			);
 			path = Days;
 			sourceTree = "<group>";
@@ -62,6 +67,7 @@
 			isa = PBXGroup;
 			children = (
 				BA94275E2BFEDC650020E1FB /* Checkpoint1.swift */,
+				BACEA1A42C011C050022F333 /* Checkpoint2.swift */,
 			);
 			path = Checkpoints;
 			sourceTree = "<group>";
@@ -153,9 +159,11 @@
 			files = (
 				BA9427592BFECFA30020E1FB /* day1.swift in Sources */,
 				BA0827762BFF8A3100C064A7 /* day.swift in Sources */,
+				BACEA1A32C0115590022F333 /* day4.swift in Sources */,
 				BA94275F2BFEDC650020E1FB /* Checkpoint1.swift in Sources */,
 				BA94275B2BFED3AC0020E1FB /* day2.swift in Sources */,
 				BA0827782BFF8C0500C064A7 /* day3.swift in Sources */,
+				BACEA1A52C011C050022F333 /* Checkpoint2.swift in Sources */,
 				BA9427522BFECF890020E1FB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

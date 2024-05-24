@@ -9,3 +9,5 @@ import Foundation
 
 day1.main()
 day3.main()
+day4.main()
+Checkpoint2()
