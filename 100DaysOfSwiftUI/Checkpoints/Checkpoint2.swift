@@ -8,7 +8,9 @@
 import Foundation
 class Checkpoint2: day {
     static func main() {
-        var names : [String] = ["Bernardo", "Rebeca", "Sarah", "Paulo", "João"]
+        let names : [String] = ["Bernardo", "Rebeca", "Sarah", "Paulo", "João", "Bernardo"]
         print(names.count)
+        let uniqueNames = Set(names)
+        print(uniqueNames.count)
     }
 }
