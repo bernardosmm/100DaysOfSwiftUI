@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA0827762BFF8A3100C064A7 /* day.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0827752BFF8A3000C064A7 /* day.swift */; };
+		BA0827782BFF8C0500C064A7 /* day3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0827772BFF8C0500C064A7 /* day3.swift */; };
 		BA9427522BFECF890020E1FB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9427512BFECF890020E1FB /* main.swift */; };
 		BA9427592BFECFA30020E1FB /* day1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9427582BFECFA30020E1FB /* day1.swift */; };
 		BA94275B2BFED3AC0020E1FB /* day2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA94275A2BFED3AC0020E1FB /* day2.swift */; };
@@ -26,6 +28,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		BA0827752BFF8A3000C064A7 /* day.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day.swift; sourceTree = "<group>"; };
+		BA0827772BFF8C0500C064A7 /* day3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day3.swift; sourceTree = "<group>"; };
 		BA94274E2BFECF890020E1FB /* 100DaysOfSwiftUI */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 100DaysOfSwiftUI; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA9427512BFECF890020E1FB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		BA9427582BFECFA30020E1FB /* day1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day1.swift; sourceTree = "<group>"; };
@@ -44,6 +48,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BA0827732BFF8A0600C064A7 /* Days */ = {
+			isa = PBXGroup;
+			children = (
+				BA9427582BFECFA30020E1FB /* day1.swift */,
+				BA94275A2BFED3AC0020E1FB /* day2.swift */,
+				BA0827772BFF8C0500C064A7 /* day3.swift */,
+			);
+			path = Days;
+			sourceTree = "<group>";
+		};
+		BA0827742BFF8A1700C064A7 /* Checkpoints */ = {
+			isa = PBXGroup;
+			children = (
+				BA94275E2BFEDC650020E1FB /* Checkpoint1.swift */,
+			);
+			path = Checkpoints;
+			sourceTree = "<group>";
+		};
 		BA9427452BFECF890020E1FB = {
 			isa = PBXGroup;
 			children = (
@@ -64,9 +86,9 @@
 			isa = PBXGroup;
 			children = (
 				BA9427512BFECF890020E1FB /* main.swift */,
-				BA9427582BFECFA30020E1FB /* day1.swift */,
-				BA94275A2BFED3AC0020E1FB /* day2.swift */,
-				BA94275E2BFEDC650020E1FB /* Checkpoint1.swift */,
+				BA0827752BFF8A3000C064A7 /* day.swift */,
+				BA0827732BFF8A0600C064A7 /* Days */,
+				BA0827742BFF8A1700C064A7 /* Checkpoints */,
 			);
 			path = 100DaysOfSwiftUI;
 			sourceTree = "<group>";
@@ -130,8 +152,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA9427592BFECFA30020E1FB /* day1.swift in Sources */,
+				BA0827762BFF8A3100C064A7 /* day.swift in Sources */,
 				BA94275F2BFEDC650020E1FB /* Checkpoint1.swift in Sources */,
 				BA94275B2BFED3AC0020E1FB /* day2.swift in Sources */,
+				BA0827782BFF8C0500C064A7 /* day3.swift in Sources */,
 				BA9427522BFECF890020E1FB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

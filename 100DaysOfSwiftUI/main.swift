@@ -7,6 +7,5 @@
 
 import Foundation
 
-runday1()
-runday2()
-runCheckpoint1()
+day1.main()
+day3.main()
