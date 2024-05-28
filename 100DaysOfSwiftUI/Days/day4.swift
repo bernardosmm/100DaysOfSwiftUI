@@ -35,8 +35,5 @@ class day4: day {
         //lots of complex logic
         username = "Bernas"
         //lots of more complex logic
-        
-        
-        
     }
 }
