@@ -13,6 +13,7 @@ class day5: day {
         if score > 50 {
             print("Approved")
         }
+        
         let speed = 88
         let percentage = 85
         let age = 18
@@ -25,6 +26,7 @@ class day5: day {
         if age >= 18 {
             print("You're elegible to vote")
         }
+        
         let myName: String = "Bernardo"
         let friendName: String = "Paulo"
         if myName < friendName {
@@ -56,6 +58,7 @@ class day5: day {
         } else {
             print("You cannot vote in the next election")
         }
+        
         let a = true
         let b = true
         if a {
@@ -65,6 +68,7 @@ class day5: day {
         } else {
             print("Code to run if b and a are false")
         }
+        
         let temp = 25
         if temp > 25 && temp < 30 {
             print("It's a nice day")
@@ -89,6 +93,8 @@ class day5: day {
         } else {
             print("I am going to hire a scooter now")
         }
+        
+        
         enum weather {
             case sun, rain, snow, wind, unknown
         }
@@ -106,6 +112,8 @@ class day5: day {
         case .unknown:
             print("Our forecast generator is broken")
         }
+        
+        
         let place = "Metropolis"
         switch place {
         case "Gotham":
