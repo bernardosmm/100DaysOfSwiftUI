@@ -63,7 +63,27 @@ class day7: day {
         
         let string = "HELLO WORLD"
         let resultado = isUppercase(string)
+        
+        func multiplcaDoisNumeros(primmeiroNumeroASerMultiplicado: Int, SegundoNumeroASerMultiplicado: Int) -> Int {
+            return primmeiroNumeroASerMultiplicado * SegundoNumeroASerMultiplicado
+        }
+        print(multiplcaDoisNumeros(primmeiroNumeroASerMultiplicado: 25, SegundoNumeroASerMultiplicado: 25))
+        
+        func imprimirMeuNome(nomeASerImprmido: String) {
+            print("O meu nome é \(nomeASerImprmido)")
+        }
+        imprimirMeuNome(nomeASerImprmido: "Bernas")
+        
+        func imprimirMinhaIdade(idadeASerImpressa: Int) {
+            print("Minha idade é \(idadeASerImpressa) anos")
+        }
+        imprimirMinhaIdade(idadeASerImpressa: 19)
+        
+        func albunsFavoritos(nomesDosAlbuns: [String]) {
+            print("Meus albuns favoritos são \(nomesDosAlbuns)")
+        }
+        albunsFavoritos(nomesDosAlbuns: ["The new abnormal", "Whatever people say i am, that's what i am not", "AM"])
+        
     }
     
 }
-
