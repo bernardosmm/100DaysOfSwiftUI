@@ -12,6 +12,7 @@
 		BA1225832C04F9050098EE78 /* day5.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1225822C04F9050098EE78 /* day5.swift */; };
 		BA5BA9FA2C06967F00768C06 /* day6.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5BA9F92C06967F00768C06 /* day6.swift */; };
 		BA5BA9FC2C06AD8100768C06 /* Checkpoint3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5BA9FB2C06AD8100768C06 /* Checkpoint3.swift */; };
+		BA84BC0B2C0E33F4001EA09D /* day7.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA84BC0A2C0E33F4001EA09D /* day7.swift */; };
 		BA9427522BFECF890020E1FB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9427512BFECF890020E1FB /* main.swift */; };
 		BA9427592BFECFA30020E1FB /* day1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9427582BFECFA30020E1FB /* day1.swift */; };
 		BA94275B2BFED3AC0020E1FB /* day2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA94275A2BFED3AC0020E1FB /* day2.swift */; };
@@ -38,6 +39,7 @@
 		BA1225822C04F9050098EE78 /* day5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day5.swift; sourceTree = "<group>"; };
 		BA5BA9F92C06967F00768C06 /* day6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day6.swift; sourceTree = "<group>"; };
 		BA5BA9FB2C06AD8100768C06 /* Checkpoint3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkpoint3.swift; sourceTree = "<group>"; };
+		BA84BC0A2C0E33F4001EA09D /* day7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day7.swift; sourceTree = "<group>"; };
 		BA94274E2BFECF890020E1FB /* 100DaysOfSwiftUI */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 100DaysOfSwiftUI; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA9427512BFECF890020E1FB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		BA9427582BFECFA30020E1FB /* day1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day1.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				BACEA1A22C0115590022F333 /* day4.swift */,
 				BA1225822C04F9050098EE78 /* day5.swift */,
 				BA5BA9F92C06967F00768C06 /* day6.swift */,
+				BA84BC0A2C0E33F4001EA09D /* day7.swift */,
 			);
 			path = Days;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				BACEA1A52C011C050022F333 /* Checkpoint2.swift in Sources */,
 				BA1225832C04F9050098EE78 /* day5.swift in Sources */,
 				BA9427522BFECF890020E1FB /* main.swift in Sources */,
+				BA84BC0B2C0E33F4001EA09D /* day7.swift in Sources */,
 				BA5BA9FC2C06AD8100768C06 /* Checkpoint3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
