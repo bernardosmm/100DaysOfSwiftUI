@@ -15,4 +15,6 @@ day5.main()
 day6.main()
 Checkpoint3.main()
 day7.main()
+day8.main()
+Checkpoint4.main()
 
