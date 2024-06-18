@@ -134,5 +134,48 @@ class day9: day {
         let uppercasePeople = people.map { $0.uppercased()}
         print(uppercasePeople)
         
+        // Function as a type
+        
+//        let viagemParaLagoinha = { (lugar: String) in
+//            print("Estou viajando para Lagoinha")
+//        }
+//        
+//        func viagemParaSalvador(){
+//            print("Estou viajando para Salvador")
+//        }
+//        
+        func viajar(closure: (String, Int) -> Void) {
+            print("Estou viajando...")
+            closure("Lagoinha", 10)
+       }
+        
+        viajar{
+            print("Para \($0) - \($1)")
+        }
+        
+        func teste(numero: Double, nome: String, closure: () -> Void) {
+            
+        }
+        teste(numero: 12.9, nome: "Bernas") {
+            
+        }
+        
+        func dismiss(animated: Bool, completion: (() -> Void)? = nil) {
+            completion?()
+        }
+        
+        dismiss(animated: true) {
+            
+        }
     }
 }
+
+
+
+
+
+
+
+
+
+
