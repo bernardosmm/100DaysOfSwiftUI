@@ -19,4 +19,4 @@ day8.main()
 Checkpoint4.main()
 day9.main()
 Checkpoint5.main()
-
+day10.main()
