@@ -13,6 +13,7 @@
 		BA0827782BFF8C0500C064A7 /* day3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0827772BFF8C0500C064A7 /* day3.swift */; };
 		BA1225832C04F9050098EE78 /* day5.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1225822C04F9050098EE78 /* day5.swift */; };
 		BA25CD512C12751E0099754E /* day9.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA25CD502C12751E0099754E /* day9.swift */; };
+		BA5372D22C46D52000C33C88 /* Checkpoint7.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5372D12C46D52000C33C88 /* Checkpoint7.swift */; };
 		BA5556202C23A267000FA298 /* day10.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA55561F2C23A267000FA298 /* day10.swift */; };
 		BA5BA9FA2C06967F00768C06 /* day6.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5BA9F92C06967F00768C06 /* day6.swift */; };
 		BA5BA9FC2C06AD8100768C06 /* Checkpoint3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5BA9FB2C06AD8100768C06 /* Checkpoint3.swift */; };
@@ -26,6 +27,7 @@
 		BAACB6D12C443B5E0025F734 /* Checkpoint6.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAACB6D02C443B5E0025F734 /* Checkpoint6.swift */; };
 		BACEA1A32C0115590022F333 /* day4.swift in Sources */ = {isa = PBXBuildFile; fileRef = BACEA1A22C0115590022F333 /* day4.swift */; };
 		BACEA1A52C011C050022F333 /* Checkpoint2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BACEA1A42C011C050022F333 /* Checkpoint2.swift */; };
+		BADC91222C45F15000FE6855 /* day12.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADC91212C45F15000FE6855 /* day12.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +49,7 @@
 		BA0827772BFF8C0500C064A7 /* day3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day3.swift; sourceTree = "<group>"; };
 		BA1225822C04F9050098EE78 /* day5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day5.swift; sourceTree = "<group>"; };
 		BA25CD502C12751E0099754E /* day9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day9.swift; sourceTree = "<group>"; };
+		BA5372D12C46D52000C33C88 /* Checkpoint7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkpoint7.swift; sourceTree = "<group>"; };
 		BA55561F2C23A267000FA298 /* day10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day10.swift; sourceTree = "<group>"; };
 		BA5BA9F92C06967F00768C06 /* day6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day6.swift; sourceTree = "<group>"; };
 		BA5BA9FB2C06AD8100768C06 /* Checkpoint3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkpoint3.swift; sourceTree = "<group>"; };
@@ -61,6 +64,7 @@
 		BAACB6D02C443B5E0025F734 /* Checkpoint6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkpoint6.swift; sourceTree = "<group>"; };
 		BACEA1A22C0115590022F333 /* day4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day4.swift; sourceTree = "<group>"; };
 		BACEA1A42C011C050022F333 /* Checkpoint2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkpoint2.swift; sourceTree = "<group>"; };
+		BADC91212C45F15000FE6855 /* day12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day12.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +92,7 @@
 				BA25CD502C12751E0099754E /* day9.swift */,
 				BA55561F2C23A267000FA298 /* day10.swift */,
 				BAACB6CE2C442F9F0025F734 /* day11.swift */,
+				BADC91212C45F15000FE6855 /* day12.swift */,
 			);
 			path = Days;
 			sourceTree = "<group>";
@@ -101,6 +106,7 @@
 				BA0527D62C0F91FF00382B79 /* Checkpoint4.swift */,
 				BA88908C2C21133C0053D0EF /* Checkpoint5.swift */,
 				BAACB6D02C443B5E0025F734 /* Checkpoint6.swift */,
+				BA5372D12C46D52000C33C88 /* Checkpoint7.swift */,
 			);
 			path = Checkpoints;
 			sourceTree = "<group>";
@@ -190,6 +196,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA5372D22C46D52000C33C88 /* Checkpoint7.swift in Sources */,
 				BAACB6D12C443B5E0025F734 /* Checkpoint6.swift in Sources */,
 				BA5556202C23A267000FA298 /* day10.swift in Sources */,
 				BA9427592BFECFA30020E1FB /* day1.swift in Sources */,
@@ -201,6 +208,7 @@
 				BA94275B2BFED3AC0020E1FB /* day2.swift in Sources */,
 				BAACB6CF2C442F9F0025F734 /* day11.swift in Sources */,
 				BA0827782BFF8C0500C064A7 /* day3.swift in Sources */,
+				BADC91222C45F15000FE6855 /* day12.swift in Sources */,
 				BA0527D72C0F91FF00382B79 /* Checkpoint4.swift in Sources */,
 				BA88908D2C21133C0053D0EF /* Checkpoint5.swift in Sources */,
 				BACEA1A52C011C050022F333 /* Checkpoint2.swift in Sources */,
