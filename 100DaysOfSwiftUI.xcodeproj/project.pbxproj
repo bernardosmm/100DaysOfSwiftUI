@@ -28,6 +28,7 @@
 		BACEA1A32C0115590022F333 /* day4.swift in Sources */ = {isa = PBXBuildFile; fileRef = BACEA1A22C0115590022F333 /* day4.swift */; };
 		BACEA1A52C011C050022F333 /* Checkpoint2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BACEA1A42C011C050022F333 /* Checkpoint2.swift */; };
 		BADC91222C45F15000FE6855 /* day12.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADC91212C45F15000FE6855 /* day12.swift */; };
+		BAF6872E2C4887EA0030FAE5 /* day13.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAF6872D2C4887EA0030FAE5 /* day13.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -65,6 +66,7 @@
 		BACEA1A22C0115590022F333 /* day4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day4.swift; sourceTree = "<group>"; };
 		BACEA1A42C011C050022F333 /* Checkpoint2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkpoint2.swift; sourceTree = "<group>"; };
 		BADC91212C45F15000FE6855 /* day12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day12.swift; sourceTree = "<group>"; };
+		BAF6872D2C4887EA0030FAE5 /* day13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day13.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				BA55561F2C23A267000FA298 /* day10.swift */,
 				BAACB6CE2C442F9F0025F734 /* day11.swift */,
 				BADC91212C45F15000FE6855 /* day12.swift */,
+				BAF6872D2C4887EA0030FAE5 /* day13.swift */,
 			);
 			path = Days;
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 				BA94275F2BFEDC650020E1FB /* Checkpoint1.swift in Sources */,
 				BA0527D52C0F7EC800382B79 /* day8.swift in Sources */,
 				BA94275B2BFED3AC0020E1FB /* day2.swift in Sources */,
+				BAF6872E2C4887EA0030FAE5 /* day13.swift in Sources */,
 				BAACB6CF2C442F9F0025F734 /* day11.swift in Sources */,
 				BA0827782BFF8C0500C064A7 /* day3.swift in Sources */,
 				BADC91222C45F15000FE6855 /* day12.swift in Sources */,
